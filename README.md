@@ -1,25 +1,21 @@
-# Krishna's Portfolio
+# Krishna Dumbre Portfolio
 
-Welcome to my personal portfolio! 🎉  
-This website showcases my projects, skills, and ways to connect with me.
+Welcome to my personal portfolio! Here you can find information about my skills, projects, and contact details.
 
----
+## About Me
+Hi, I'm Krishna Dumbre, a passionate tech enthusiast currently pursuing Computer Engineering. I love learning new technologies, creating UI/UX designs, and developing software solutions.
 
-## 🛠 Technologies Used
-- **HTML5** – Structure and markup
-- **CSS3** – Styling and layouts
-- **JavaScript** – Interactivity
-- **Responsive Design** – Mobile-friendly layout
+## Skills
+- **Web Design:** HTML, CSS, JavaScript  
+- **Graphics & UI/UX:** Figma, Adobe XD, Canva  
+- **Software Development:** Java, Python, C++  
+- **Problem Solving & Creative Direction**
 
----
-
-## 💻 Features
-- Hero section with introduction
-- About Me section
-- Projects showcase with cards
-- Contact form with simple validation
-- Smooth scrolling navigation
+## Contact
+- **Email:** krishnadumbre2006@gmail.com  
+- **Instagram:** [@0507_krishna.d](https://www.instagram.com/0507_krishna.d?igsh=b21od2YzMnUyOG15)  
+- **GitHub:** [krishnadumbre2006-art](https://github.com/krishnadumbre2006-art)
 
 ---
 
-## 📂 Folder Structure
+Feel free to explore and connect with me!
