@@ -1,4 +1,4 @@
-# Krishna Dumbre Portfolio
+# Portfolio
 
 Welcome to my personal portfolio! Here you can find information about my skills, projects, and contact details.
 
